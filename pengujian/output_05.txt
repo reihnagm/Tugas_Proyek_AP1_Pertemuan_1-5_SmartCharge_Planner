@@ -1,0 +1,31 @@
+SMARTCHARGE PLANNER - SIMULASI PENGISIAN EV
+Catatan: tarif, daya, dan efisiensi hanya asumsi studi kasus.
+
+=============== MENU UTAMA ===============
+1. Simulasi pengisian
+2. Keluar
+Pilih menu (1-2): 
+--- INPUT SIMULASI ---
+Kapasitas baterai (kWh, > 0): Input di luar batas yang diizinkan. Silakan ulangi.
+Kapasitas baterai (kWh, > 0): SoC awal (0 sampai kurang dari 100%): SoC target (lebih tinggi dari awal, maks. 100%): Anggaran maksimum (Rp, >= 0): Anggota? (1=Ya, 0=Tidak): Jam sibuk? (1=Ya, 0=Tidak): Prioritas (1=Hemat, 2=Cepat): 
+========== HASIL SMARTCHARGE PLANNER ==========
+Energi dibutuhkan : 30.00 kWh
+AC / Standar (7 kW)
+  Durasi           : 257.14 menit
+  Biaya            : Rp72000
+  Status anggaran  : CUKUP
+DC / Cepat (50 kW)
+  Durasi           : 36.00 menit
+  Biaya            : Rp96000
+  Status anggaran  : TIDAK CUKUP
+Anggaran           : Rp80000
+REKOMENDASI: AC / Standar
+Alasan: hanya AC sesuai anggaran. Kompromi: pengisian lebih lama.
+===============================================
+Simulasi berhasil pada sesi ini: 1
+
+=============== MENU UTAMA ===============
+1. Simulasi pengisian
+2. Keluar
+Pilih menu (1-2): Terima kasih telah menggunakan SmartCharge Planner.
+Total simulasi valid: 1

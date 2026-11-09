@@ -1,0 +1,11 @@
+REFLEKSI SAYA
+Bagian tersulit saat menyusun SmartCharge Planner adalah pada semester pertama saya telah mempelajari C# sementara untuk sekarang menggunakan bahasa program C++ dari syntax sangat
+berbeda dan perlu adaptasi.
+
+SKRIP DEMO 3-5 MENIT
+00:00-00:35 tujuan, asumsi tarif
+00:35-01:10 kode/fungsi
+01:10-02:05 skenario A
+02:05-03:05 skenario B
+03:05-03:40 validasi input
+03:40-04:15 menu berulang dan kesimpulan
